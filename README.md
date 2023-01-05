@@ -12,7 +12,7 @@ SwipeJS
 ScrollReveal  
 Utilities  
 
-randomuser.me   
+Random User Generator 
 IconMoon  
 
 💻 Project  
