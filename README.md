@@ -9,7 +9,7 @@ Libraries
 
 Google Fonts  
 SwipeJS  
-ScrollRevel  
+ScrollReveal  
 Utilities  
 
 randomuser.me   
